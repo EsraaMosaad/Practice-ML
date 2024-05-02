@@ -5,7 +5,7 @@ This repository contains Python code to predict heart disease using various mach
 
 Key functionalities:
 
-#Data Preprocessing:
+# Data Preprocessing:
 Loads the heart disease dataset from a CSV file.[https://github.com/kb22/Heart-Disease-Prediction/blob/master/README.md]
 Handles missing values (if any).
 Identifies and handles categorical features through one-hot encoding.
